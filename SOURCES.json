@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "updated": "2026-10-09",
+  "sourcePage": "https://congcu.vita-share.com/disc",
+  "questionData": "28 groups, 112 descriptions, source order retained; display trims whitespace only.",
+  "questionSourceAccessed": "2026-10-08",
+  "sourceModule": "https://congcu.vita-share.com/assets/DISC-DUbawu2o.js",
+  "implementation": "Independent HTML/CSS/JavaScript implementation; source application code and branding are not bundled.",
+  "scoring": "Raw same/diff counts and net=same-diff. Mapping 1=S,2=C,3=D,4=I inferred from descriptions; not confirmed as the original server scoring key.",
+  "chart": "Independent SVG rendering. Fixed net axis [-28,28]; count axes [0,28]. All values are raw counts, not normalized or percentage scores.",
+  "thirdPartyRights": "Question descriptions attributed to Vita Share. No redistribution license verified; no ownership or license grant for third-party questionnaire content is asserted.",
+  "identityDataCollectedByApp": false,
+  "surveyAnswersSentByApp": false
+}

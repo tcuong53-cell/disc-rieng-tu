@@ -1,0 +1,506 @@
+[
+  [
+    {
+      "weight": 1,
+      "name": "Yên tĩnh"
+    },
+    {
+      "weight": 2,
+      "name": "Có óc phân tích"
+    },
+    {
+      "weight": 3,
+      "name": "Nhanh chóng"
+    },
+    {
+      "weight": 4,
+      "name": "Biểu lộ cảm xúc"
+    }
+  ],
+  [
+    {
+      "weight": 4,
+      "name": "Vui vẻ vô tư"
+    },
+    {
+      "weight": 2,
+      "name": "Chính xác"
+    },
+    {
+      "weight": 3,
+      "name": "Bộc lộ quan điểm"
+    },
+    {
+      "weight": 1,
+      "name": "Thong thả"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Quan tâm người khác"
+    },
+    {
+      "weight": 3,
+      "name": "Dám nghĩ dám làm"
+    },
+    {
+      "weight": 4,
+      "name": "Hay pha trò"
+    },
+    {
+      "weight": 2,
+      "name": "Tuân thủ luật lệ"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Lắng nghe kiên nhẫn"
+    },
+    {
+      "weight": 3,
+      "name": "Không khoan nhượng"
+    },
+    {
+      "weight": 2,
+      "name": "Nói có căn cứ"
+    },
+    {
+      "weight": 4,
+      "name": "Có sức thuyết phục"
+    }
+  ],
+  [
+    {
+      "weight": 4,
+      "name": "Dễ bắt chuyện"
+    },
+    {
+      "weight": 1,
+      "name": "Né tranh luận"
+    },
+    {
+      "weight": 3,
+      "name": "Ghét lề mề"
+    },
+    {
+      "weight": 2,
+      "name": "Suy nghĩ thấu đáo"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Cẩn trọng"
+    },
+    {
+      "weight": 3,
+      "name": "Quyết định nhanh"
+    },
+    {
+      "weight": 4,
+      "name": "Có nhiều thông tin"
+    },
+    {
+      "weight": 1,
+      "name": "Tránh xung đột"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Nói chuyện chậm rãi"
+    },
+    {
+      "weight": 3,
+      "name": "Mạo hiểm"
+    },
+    {
+      "weight": 2,
+      "name": "Ngăn nắp"
+    },
+    {
+      "weight": 4,
+      "name": "Giao thiệp rộng"
+    }
+  ],
+  [
+    {
+      "weight": 3,
+      "name": "Chủ động thay đổi"
+    },
+    {
+      "weight": 1,
+      "name": "Nhẹ nhàng thân thiện"
+    },
+    {
+      "weight": 4,
+      "name": "Giao tiếp sôi nổi "
+    },
+    {
+      "weight": 2,
+      "name": "Ngại tiếp xúc"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Thư giãn"
+    },
+    {
+      "weight": 4,
+      "name": "Lạc quan vui vẻ"
+    },
+    {
+      "weight": 3,
+      "name": "Đạt mục đích đến cùng"
+    },
+    {
+      "weight": 2,
+      "name": "Chú ý chi tiết"
+    }
+  ],
+  [
+    {
+      "weight": 4,
+      "name": "Vui khi được khen"
+    },
+    {
+      "weight": 1,
+      "name": "Hiểu cảm xúc người khác"
+    },
+    {
+      "weight": 3,
+      "name": "Người đầu tiên hành động"
+    },
+    {
+      "weight": 2,
+      "name": "Suy nghĩ có lập luận"
+    }
+  ],
+  [
+    {
+      "weight": 3,
+      "name": "Muốn là làm"
+    },
+    {
+      "weight": 4,
+      "name": "Được mọi người chú ý"
+    },
+    {
+      "weight": 2,
+      "name": "Suy luận logic"
+    },
+    {
+      "weight": 1,
+      "name": "Chậm mà chắc"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Ổn định là trên hết"
+    },
+    {
+      "weight": 4,
+      "name": "Cảm thấy  mãn nguyện"
+    },
+    {
+      "weight": 3,
+      "name": "Muốn chiến thắng"
+    },
+    {
+      "weight": 2,
+      "name": "Làm đúng cách"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Nói chuyện thận trọng"
+    },
+    {
+      "weight": 4,
+      "name": "Làm việc nhóm tốt"
+    },
+    {
+      "weight": 1,
+      "name": "Không đòi hỏi người khác"
+    },
+    {
+      "weight": 3,
+      "name": "Dám làm dám chịu"
+    }
+  ],
+  [
+    {
+      "weight": 4,
+      "name": "Dễ tiếp xúc người lạ"
+    },
+    {
+      "weight": 1,
+      "name": "Không gây áp lực"
+    },
+    {
+      "weight": 3,
+      "name": "Nóng tính"
+    },
+    {
+      "weight": 2,
+      "name": "Không thiên vị"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Làm đúng cách"
+    },
+    {
+      "weight": 4,
+      "name": "Thường gây chú ý"
+    },
+    {
+      "weight": 1,
+      "name": "Sẵn lòng giúp đỡ"
+    },
+    {
+      "weight": 3,
+      "name": "Đưa ra định hướng"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Tự kỷ luật"
+    },
+    {
+      "weight": 1,
+      "name": "Ân cần"
+    },
+    {
+      "weight": 4,
+      "name": "Dễ kết bạn"
+    },
+    {
+      "weight": 3,
+      "name": "Quyết đoán"
+    }
+  ],
+  [
+    {
+      "weight": 4,
+      "name": "Gây chú ý"
+    },
+    {
+      "weight": 3,
+      "name": "Người hành động"
+    },
+    {
+      "weight": 1,
+      "name": "Được mọi người tâm sự"
+    },
+    {
+      "weight": 2,
+      "name": "Suy đi tính lại"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Làm cho tốt mọi việc"
+    },
+    {
+      "weight": 3,
+      "name": "Nhận thử thách"
+    },
+    {
+      "weight": 4,
+      "name": "Có khả năng thuyết phục"
+    },
+    {
+      "weight": 1,
+      "name": "Giữ mối quan hệ"
+    }
+  ],
+  [
+    {
+      "weight": 3,
+      "name": "Sẵn sàng phát biểu"
+    },
+    {
+      "weight": 4,
+      "name": "Truyền được cảm hứng"
+    },
+    {
+      "weight": 1,
+      "name": "Kiên nhẫn lắng nghe"
+    },
+    {
+      "weight": 2,
+      "name": "Làm đúng ngay từ đầu"
+    }
+  ],
+  [
+    {
+      "weight": 3,
+      "name": "Đi thẳng vào vấn đề"
+    },
+    {
+      "weight": 1,
+      "name": "Ổn định chắc chắn"
+    },
+    {
+      "weight": 4,
+      "name": "Hay cười"
+    },
+    {
+      "weight": 2,
+      "name": "Không cần can dự"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Thận trọng để nói đúng"
+    },
+    {
+      "weight": 4,
+      "name": "Cảm xúc mạnh mẽ"
+    },
+    {
+      "weight": 3,
+      "name": "Chờ là sốt ruột"
+    },
+    {
+      "weight": 1,
+      "name": "Thường thỏa hiệp"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Tránh gây sự"
+    },
+    {
+      "weight": 3,
+      "name": "Không bỏ cuộc"
+    },
+    {
+      "weight": 4,
+      "name": "Dễ dàng bị kích động"
+    },
+    {
+      "weight": 2,
+      "name": "Hoạch định trước khi làm"
+    }
+  ],
+  [
+    {
+      "weight": 2,
+      "name": "Phạm ít sai sót"
+    },
+    {
+      "weight": 3,
+      "name": "Cần phải tranh luận"
+    },
+    {
+      "weight": 4,
+      "name": "Tính cách hướng ngoại"
+    },
+    {
+      "weight": 1,
+      "name": "Chịu đựng nhẫn nhịn"
+    }
+  ],
+  [
+    {
+      "weight": 3,
+      "name": "Chắc chắn về bản thân"
+    },
+    {
+      "weight": 2,
+      "name": "Học hỏi từ kinh nghiệm"
+    },
+    {
+      "weight": 4,
+      "name": "Lạc quan"
+    },
+    {
+      "weight": 1,
+      "name": "Bình tĩnh và dễ dãi"
+    }
+  ],
+  [
+    {
+      "weight": 4,
+      "name": "Dễ xúc động"
+    },
+    {
+      "weight": 3,
+      "name": "Thường chỉ bảo người khác"
+    },
+    {
+      "weight": 1,
+      "name": "Suy nghĩ tích cực"
+    },
+    {
+      "weight": 2,
+      "name": "Im lặng quan sát"
+    }
+  ],
+  [
+    {
+      "weight": 3,
+      "name": "Hành động nhanh"
+    },
+    {
+      "weight": 4,
+      "name": "Có thể động viên người khác"
+    },
+    {
+      "weight": 1,
+      "name": "Sẵn sàng giúp đỡ"
+    },
+    {
+      "weight": 2,
+      "name": "Âm thầm làm việc"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Hòa nhã với mọi người"
+    },
+    {
+      "weight": 4,
+      "name": "Được nhiều người mến"
+    },
+    {
+      "weight": 3,
+      "name": "Làm điều mình muốn"
+    },
+    {
+      "weight": 2,
+      "name": "Ít phát biểu trước đám đông"
+    }
+  ],
+  [
+    {
+      "weight": 1,
+      "name": "Tình cảm nồng ấm"
+    },
+    {
+      "weight": 4,
+      "name": "Muốn có nhiều bạn "
+    },
+    {
+      "weight": 3,
+      "name": "Cảm thấy mạnh mẽ"
+    },
+    {
+      "weight": 2,
+      "name": "Tránh sự ồn ào"
+    }
+  ]
+]
